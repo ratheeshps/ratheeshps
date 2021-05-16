@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ratheeshps
-- 👀 I’m interested in Azure, DotNet Core, Flutter, Angular
+- 👀 I’m interested in Azure, dotnet core, Flutter, Angular, docker and kubernetes
 - 🌱 I’m currently learning new techniques 
 - 📫 How to reach me @ratheeshps (twitter)
 
