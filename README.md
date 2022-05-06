@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratheeshps
 - 👀 I’m interested in Azure, dotnet core, Flutter, Angular, docker and kubernetes
-- 🌱 I’m currently learning new techniques 
+- 🌱 I’m learning Azure Biceps now.
 - 📫 How to reach me @ratheeshps (twitter)
 
 <!---
