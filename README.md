@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ratheeshps">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Cloud%20%26%20Solution%20Architect%20(.NET)%20%7C%20Azure%20Expert%20%7C%20DevOps%20%26%20Platform%20Engineering%20Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Cloud%20%26%20Solution%20Architect%20%26%20Platform%20Engineering%20Leader" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -41,6 +41,7 @@
 
 🎓 Certifications: **AZ-305: Azure Solutions Architect Expert, AZ-400: DevOps Engineer Expert, AZ-204: Azure Developer Associate, AZ-900: Azure Fundamentals, AI-900: AI Fundamentals, DP-900: Data Fundamentals, SC-900: Security, Compliance & Identity**
 
+⚡ Fun fact: **I love sports analytics**
 
 📦 **18** repositories
 
